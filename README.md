@@ -5,8 +5,7 @@ A responsive tourism-themed static website showcasing famous Indian destinations
 ---
 
 ## 🌐 Live Demo
-
-🔗 [Click here to view the deployed site](tourofplaces.ccbp.tech)  
+(tourofplaces.ccbp.tech)  paste this link in browser
 
 ---
 
